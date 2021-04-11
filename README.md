@@ -11,3 +11,6 @@ RU:
 
 ENG:
   Coming soon!
+
+Боту нужна база данных, которую ты можешь создать через файл create_database.py!
+Bot needs to have database, which you can create with the create_database.py!
