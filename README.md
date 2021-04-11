@@ -1,6 +1,6 @@
 # (WIP) Social Credit Bot for Discord
 
-## Здесь могут быть баги! / There may be bugs!
+**Здесь могут быть баги! / There may be bugs!**
 ## RU:
   Бот написан на Python и discord.py . База данных работает на SQLite 3.
   **Предполагается, что бот будет работать только на _одном сервере_!**
